@@ -17,7 +17,10 @@ I am passionate and interested in building various softwares ranging from a simp
 * SQL
 * Google Firebase
 * MySQL
+* PostgreSQL
+* AWS RDS
 * Next.js
+* API
 
 ## Social Media
 Feel free to reach me out with 
